@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jimskapt</title>
+        <link>https://jimskapt.github.io</link>
+        <description>Jimskapt website</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://jimskapt.github.io/topics/webassembly/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Le livre Rust et WebAssembly</title>
+            <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+            <link>https://jimskapt.github.io/translations/french/rust-wasm-book-fr/</link>
+            <guid>https://jimskapt.github.io/translations/french/rust-wasm-book-fr/</guid>
+            <description>&lt;ul&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-wasm-book-fr&quot;&gt;read the translated book online&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;rustwasm.github.io&#x2F;docs&#x2F;book&#x2F;&quot;&gt;read the original book online&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-wasm-book-fr&quot;&gt;go to code repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
+    </channel>
+</rss>

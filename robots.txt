@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jimskapt.github.io/sitemap.xml

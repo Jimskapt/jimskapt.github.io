@@ -1,0 +1,30 @@
+.translation_links {
+	display: block;
+	text-align: right;
+}
+
+.translation_links img {
+	max-height: 0.8em;
+}
+
+h1 a {
+	text-decoration: none;
+	color: black;
+}
+
+h1 a:hover {
+	text-decoration: underline;
+}
+
+h1 .boring {
+	font-size: 0.5em;
+	color: #CCC;
+}
+
+h1 .boring:hover {
+	color: black;
+}
+
+#github_feed {
+	margin: 2em 5em;
+}
