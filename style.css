@@ -1,3 +1,51 @@
+@font-face {
+	font-family: 'BlackOpsOne';
+	src: url('/BlackOpsOne-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Jura';
+	src: url('/Jura-Light.ttf');
+}
+
+* {
+	font-family: 'Jura';
+}
+
+h1, h1 *, h2, h2 *, h3, h3 *, h4, h4 *, h5, h5 *, h6, h6 *, .translation_links {
+	font-family: 'BlackOpsOne';
+	text-transform: uppercase;
+	color: orangered;
+}
+
+p, li {
+	color: white;
+}
+
+a, a * {
+	text-decoration: none;
+	color: orangered;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+body {
+	background: #1e1e1e;
+	margin: 0;
+	padding: 1em;
+}
+
+li {
+	margin-bottom: 0.5em;
+}
+
+hr {
+	border: 1px solid orangered;
+	margin: 1.5em 0;
+}
+
 .translation_links {
 	display: block;
 	text-align: right;
@@ -9,7 +57,6 @@
 
 h1 a {
 	text-decoration: none;
-	color: black;
 }
 
 h1 a:hover {
@@ -18,13 +65,58 @@ h1 a:hover {
 
 h1 .boring {
 	font-size: 0.5em;
-	color: #CCC;
+	color: #303030;
 }
 
-h1 .boring:hover {
-	color: black;
+h1:hover .boring {
+	color: orangered;
+}
+
+h1 sup {
+	font-style: italic;
 }
 
 #github_feed {
-	margin: 2em 5em;
+	margin: 2em 2em;
+}
+
+article {
+	border: 3px solid orangered;
+	background: linear-gradient(to bottom, rgba(100, 27, 0, 0.5), rgba(100, 27, 0, 0.2));
+	padding: 1.5em;
+	margin: 2em;
+	border-radius: 1em;
+}
+
+article, #github_feed {
+	box-shadow: 10px 10px rgba(100, 27, 0, 0.5);
+}
+
+article:hover, #github_feed:hover {
+	box-shadow: 10px 10px rgba(100, 27, 0, 0.8);
+}
+
+article:hover {
+	background: linear-gradient(to bottom, rgba(100, 27, 0, 0.8), rgba(100, 27, 0, 0.5));
+	
+}
+
+article h4, article p {
+	margin: 0;
+}
+
+article h4 {
+	margin-bottom: 0.5em;
+}
+
+code {
+	font-family: Consolas;
+	background: rgba(100, 27, 0, 0.8);
+	padding: 0.3em;
+	margin: 0.1em;
+}
+
+footer {
+	text-align: center;
+	margin-top: 3em;
 }
