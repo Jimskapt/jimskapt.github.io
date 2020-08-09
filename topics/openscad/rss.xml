@@ -3,7 +3,7 @@
     <channel>
         <title>Jimskapt</title>
         <link>https://jimskapt.github.io</link>
-        <description>Jimskapt website</description>
+        <description></description>
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://jimskapt.github.io/topics/openscad/rss.xml" rel="self" type="application/rss+xml"/>

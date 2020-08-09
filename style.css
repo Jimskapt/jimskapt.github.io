@@ -22,6 +22,18 @@ p, li {
 	color: white;
 }
 
+.content p {
+	line-height: 1.5em;
+}
+
+.content p:first-letter {
+	color: orangered;
+	font-weight: bold;
+	font-size: 1.2em;
+	font-family: 'BlackOpsOne';
+	margin-right: 0.1em;
+}
+
 a, a * {
 	text-decoration: none;
 	color: orangered;
@@ -76,37 +88,66 @@ h1 sup {
 	font-style: italic;
 }
 
-#github_feed {
-	margin: 2em 2em;
+.section {
+	display: inline-block;
+	border: 3px solid orangered;
+	background: linear-gradient(to bottom, rgba(100, 27, 0, 0.7), rgba(100, 27, 0, 0.4));
+	box-shadow: 10px 10px rgba(100, 27, 0, 0.6);
+	border-radius: 1em;
+	padding: 0.5em;
+	margin: 0.5em;
 }
 
-article {
-	border: 3px solid orangered;
-	background: linear-gradient(to bottom, rgba(100, 27, 0, 0.5), rgba(100, 27, 0, 0.2));
+.section:hover {
+	background: linear-gradient(to bottom, rgba(100, 27, 0, 1), rgba(100, 27, 0, 0.7));
+	box-shadow: 10px 10px rgba(100, 27, 0, 0.9);
+}
+
+article.section {
+	display: block;
 	padding: 1.5em;
 	margin: 2em;
-	border-radius: 1em;
 }
 
-article, #github_feed {
-	box-shadow: 10px 10px rgba(100, 27, 0, 0.5);
+#github_feed {
+	border-radius: 0;
+	padding: 0;
+	display: block;
+	width: 50%;
+	margin: 1em auto;
 }
 
-article:hover, #github_feed:hover {
-	box-shadow: 10px 10px rgba(100, 27, 0, 0.8);
-}
-
-article:hover {
-	background: linear-gradient(to bottom, rgba(100, 27, 0, 0.8), rgba(100, 27, 0, 0.5));
-	
-}
-
-article h4, article p {
+article.section h4, article.section p {
 	margin: 0;
 }
 
-article h4 {
+article.section h4 {
 	margin-bottom: 0.5em;
+}
+
+article.section .article-topics {
+	text-align: right;
+	margin-top: 1em;
+}
+
+.section .article-topics code {
+	color: orangered;
+}
+
+.inline-showcase {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+.inline-showcase .preview {
+	max-width: 20%;
+	min-width: 300px;
+	margin-right: 1%;
+}
+
+.inline-showcase .showcase-content {
+	display: block;
 }
 
 code {

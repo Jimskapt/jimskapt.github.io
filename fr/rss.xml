@@ -3,7 +3,7 @@
     <channel>
         <title>Jimskapt</title>
         <link>https://jimskapt.github.io</link>
-        <description>Jimskapt website</description>
+        <description></description>
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://jimskapt.github.io/fr/rss.xml" rel="self" type="application/rss+xml"/>
@@ -40,8 +40,9 @@
             <guid>https://jimskapt.github.io/fr/translations/french/rust-book-fr/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-book-fr&#x2F;&quot;&gt;lire le livre traduit en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;book&#x2F;&quot;&gt;lire le livre original en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-book-fr&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;book&#x2F;&quot;&gt;lire le livre original en ligne (en anglais)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;💬 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;book&#x2F;issues&#x2F;808&quot;&gt;voir l&#x27;historique du projet (en anglais)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-book-fr&quot;&gt;consulter le dépôt du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </description>
         </item>
@@ -64,7 +65,7 @@
             <link>https://jimskapt.github.io/fr/designs/cc-407/</link>
             <guid>https://jimskapt.github.io/fr/designs/cc-407/</guid>
             <description>&lt;ul&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;CC-407&quot;&gt;go to code repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;CC-407&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </description>
         </item>
@@ -75,7 +76,7 @@
             <guid>https://jimskapt.github.io/fr/designs/ikiliptus/</guid>
             <description>&lt;p&gt;&lt;em&gt;(il n&#x27;est plus maintenu, et a besoin de mises à jour de sécurité)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;ikiliptus&#x2F;en-US&#x2F;generic.html&quot;&gt;lire la présentation du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;ikiliptus&#x2F;en-US&#x2F;&quot;&gt;lire la présentation du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;⚙ &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;ikiliptus&#x2F;application&#x2F;generic.html&quot;&gt;lancez la démonstration (dans votre navigateur web)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;ikiliptus&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;

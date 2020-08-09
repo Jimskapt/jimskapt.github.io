@@ -3,7 +3,7 @@
     <channel>
         <title>Jimskapt</title>
         <link>https://jimskapt.github.io</link>
-        <description>Jimskapt website</description>
+        <description></description>
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://jimskapt.github.io/topics/francais/rss.xml" rel="self" type="application/rss+xml"/>
@@ -27,8 +27,9 @@
             <guid>https://jimskapt.github.io/fr/translations/french/rust-book-fr/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-book-fr&#x2F;&quot;&gt;lire le livre traduit en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;book&#x2F;&quot;&gt;lire le livre original en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-book-fr&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;book&#x2F;&quot;&gt;lire le livre original en ligne (en anglais)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;💬 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;book&#x2F;issues&#x2F;808&quot;&gt;voir l&#x27;historique du projet (en anglais)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-book-fr&quot;&gt;consulter le dépôt du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </description>
         </item>

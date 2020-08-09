@@ -3,7 +3,7 @@
     <channel>
         <title>Jimskapt</title>
         <link>https://jimskapt.github.io</link>
-        <description>Jimskapt website</description>
+        <description></description>
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://jimskapt.github.io/topics/web-gui/rss.xml" rel="self" type="application/rss+xml"/>
@@ -41,7 +41,7 @@
             <guid>https://jimskapt.github.io/designs/ikiliptus/</guid>
             <description>&lt;p&gt;&lt;em&gt;(its now unmaintened, and need some security refreshments)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;ikiliptus&#x2F;en-US&#x2F;generic.html&quot;&gt;read project presentation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;ikiliptus&#x2F;en-US&#x2F;&quot;&gt;read project presentation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;⚙ &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;ikiliptus&#x2F;application&#x2F;generic.html&quot;&gt;run demonstration (in your browser)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;ikiliptus&quot;&gt;go to code repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
