@@ -7,6 +7,31 @@
 		<link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
 		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
 		<link rel="stylesheet" href="/github-activity-0.1.5-dark.min.css">
+		<style>
+			#home {
+				display: flex;
+				flex-direction: column;
+				flex-wrap: wrap;
+				justify-content: center;
+				padding: 0.5em 1em;
+			}
+
+			#home .section {
+				display: block;
+				padding: 1em;
+				margin: 1em auto;
+				text-align:center;
+				max-width: 800px;
+			}
+			
+			#github_feed {
+				border-radius: 0;
+				padding: 0;
+				display: block;
+				width: 50%;
+				margin: 1em auto;
+			}
+		</style>
 	</head>
 	<body>
 		<header id="header">
@@ -24,13 +49,13 @@
 		<section>
 
 			<h2>Home</h2>
-<div style="display:flex;flex-wrap:wrap;justify-content:center;">
-  <a href="/designs/"><span class="section">🛠 <strong>My designs</strong></span></a>
-  <a href="/translations/french/"><span class="section">🌐 <strong>My french translations</strong></span></a>
-  <a href="/blog/"><span class="section">🗒 <strong>My blog</strong></span></a>
-  <a href="/networks/"><span class="section">🕸 <strong>My networks</strong></span></a>
-  <a href="/topics/"><span class="section">🏷 <strong>The topics of this website</strong></span></a>
-  <a href="/about-me/"><span class="section">🖖 <strong>About me</strong></span></a>
+<div id="home">
+	<a href="/designs/"><span class="section">🛠 <strong>My designs</strong></span></a>
+	<a href="/translations/french/"><span class="section">🌐 <strong>My french translations</strong></span></a>
+	<a href="/blog/"><span class="section">🗒 <strong>My blog</strong></span></a>
+	<a href="/networks/"><span class="section">🕸 <strong>My networks</strong></span></a>
+	<a href="/topics/"><span class="section">🏷 <strong>The topics of this website</strong></span></a>
+	<a href="/about-me/"><span class="section">🖖 <strong>About me</strong></span></a>
 </div>
 
 
@@ -60,7 +85,7 @@
 
 			
 			<p>Build with <a href="https://www.getzola.org/">Zola</a>, hosted on <a href="https://pages.github.com/">GitHub Pages</a><br>
-			Fonts by <a href="https://fonts.google.com/specimen/Black+Ops+One#about">James Grieshaber</a> and <a href="https://fonts.google.com/specimen/Jura#about">Daniel Johnson</a></p>
+			Fonts by <a href="https://fonts.google.com/specimen/Black+Ops+One#about">James Grieshaber</a> and <a href="https://fonts.google.com/specimen/Rajdhani#about">Indian Type Foundry</a></p>
 			
 		</footer>
 	</body>

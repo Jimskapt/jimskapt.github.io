@@ -1,21 +1,29 @@
 @font-face {
+	font-family: 'RajdhaniLight';
+	src: url('/Rajdhani-Light.ttf');
+}
+
+@font-face {
+	font-family: 'RajdhaniMedium';
+	src: url('/Rajdhani-Medium.ttf');
+}
+
+@font-face {
+	font-family: 'RajdhaniBold';
+	src: url('/Rajdhani-Bold.ttf');
+}
+
+@font-face {
 	font-family: 'BlackOpsOne';
 	src: url('/BlackOpsOne-Regular.ttf');
 }
 
-@font-face {
-	font-family: 'Jura';
-	src: url('/Jura-Light.ttf');
-}
-
 * {
-	font-family: 'Jura';
+	font-family: 'RajdhaniLight';
 }
 
-h1, h1 *, h2, h2 *, h3, h3 *, h4, h4 *, h5, h5 *, h6, h6 *, .translation_links {
-	font-family: 'BlackOpsOne';
-	text-transform: uppercase;
-	color: orangered;
+strong {
+	font-family: 'RajdhaniBold';
 }
 
 p, li {
@@ -30,17 +38,24 @@ p, li {
 	color: orangered;
 	font-weight: bold;
 	font-size: 1.2em;
-	font-family: 'BlackOpsOne';
-	margin-right: 0.1em;
+	font-family: 'RajdhaniBold';
+	margin-right: 0.05em;
 }
 
 a, a * {
+	font-family: 'RajdhaniMedium';
 	text-decoration: none;
 	color: orangered;
 }
 
 a:hover {
 	text-decoration: underline;
+}
+
+h1, h1 *, h2, h2 *, h3, h3 *, h4, h4 *, h5, h5 *, h6, h6 *, .translation_links {
+	font-family: 'BlackOpsOne';
+	text-transform: uppercase;
+	color: orangered;
 }
 
 body {
@@ -93,7 +108,7 @@ h1 sup {
 	border: 3px solid orangered;
 	background: linear-gradient(to bottom, rgba(100, 27, 0, 0.7), rgba(100, 27, 0, 0.4));
 	box-shadow: 10px 10px rgba(100, 27, 0, 0.6);
-	border-radius: 1em;
+	border-radius: 0.2em;
 	padding: 0.5em;
 	margin: 0.5em;
 }
@@ -109,14 +124,6 @@ article.section {
 	margin: 2em;
 }
 
-#github_feed {
-	border-radius: 0;
-	padding: 0;
-	display: block;
-	width: 50%;
-	margin: 1em auto;
-}
-
 article.section h4, article.section p {
 	margin: 0;
 }
@@ -128,10 +135,7 @@ article.section h4 {
 article.section .article-topics {
 	text-align: right;
 	margin-top: 1em;
-}
-
-.section .article-topics code {
-	color: orangered;
+	line-height: 2.5em;
 }
 
 .inline-showcase {
@@ -151,7 +155,8 @@ article.section .article-topics {
 }
 
 code {
-	font-family: Consolas;
+	font-family: 'RajdhaniMedium';
+	white-space: nowrap;
 	background: rgba(100, 27, 0, 0.8);
 	padding: 0.3em;
 	margin: 0.1em;
