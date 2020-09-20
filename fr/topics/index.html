@@ -3,18 +3,39 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Thomas RAMIREZ</title>
-		<link rel="stylesheet" href="/style.css">
+		<link rel="stylesheet" href="/dark_style.css" title="Theme">
+		<link rel="preload" href="/light_style.css" as="style">
 		<link rel="alternate" href="/fr/rss.xml" type="application/rss+xml" title="RSS">
+		<script src="/notify-translation.js"></script>
+		<script src="/switch_theme.js"></script>
+		
 	</head>
 	<body>
+		<p id="accept-cookies" class="section" style="display: none;">
+			
+				Voulez-vous enregistrer ces préférences dans un cookie ? <button onclick="save_cookie(true)">oui</button> / <button onclick="save_cookie(false)">non</button>
+			
+		</p>
+
 		<header id="header">
 			<nav>
-				<span class="translation_links">
+				
+				<span class="lang">
 					
-					<a href="/topics"><img src="/english_flag.png" alt="🇺🇸" /> English</a> | <img src="/french_flag.png" alt="🇫🇷" /> French</a>
+					<a href="/topics">
+						<img src="/english_flag.png" alt="🇺🇸" />&nbsp;English
+					</a>
+					
+				</span>
+				<span class="separator">&nbsp;|&nbsp;</span>
+				<span class="lang">
+					
+					<img src="/french_flag.png" alt="🇫🇷" />&nbsp;French</a>
 					
 				</span>
 			</nav>
+
+			<a href="#" id="translation-warning-message" class="section" style="display: none;"></a>
 
 			<h1><a href="/fr">Thomas RAMIREZ <sup class="boring">(alias Jimskapt)</sup></a></h1>
 		</header>

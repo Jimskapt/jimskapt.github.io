@@ -3,52 +3,74 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Thomas RAMIREZ</title>
-		<link rel="stylesheet" href="/style.css">
+		<link rel="stylesheet" href="/dark_style.css" title="Theme">
+		<link rel="preload" href="/light_style.css" as="style">
 		<link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
-		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
-		<link rel="stylesheet" href="/github-activity-0.1.5-dark.min.css">
-		<style>
-			#home {
-				display: flex;
-				flex-direction: column;
-				flex-wrap: wrap;
-				justify-content: center;
-				padding: 0.5em 1em;
-			}
+		<script src="/notify-translation.js"></script>
+		<script src="/switch_theme.js"></script>
+		
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
+<link rel="stylesheet" href="/github-activity-0.1.5-custom.css">
+<style>
+	#home {
+		display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		justify-content: center;
+		padding: 0.5em 1em;
+	}
 
-			#home .section {
-				display: block;
-				padding: 1em;
-				margin: 1em auto;
-				text-align:center;
-				max-width: 800px;
-			}
-			
-			#github_feed {
-				border-radius: 0;
-				padding: 0;
-				display: block;
-				width: 50%;
-				margin: 1em auto;
-			}
-		</style>
+	#home .section {
+		display: block;
+		padding: 1em;
+		margin: 1em auto;
+		text-align:center;
+		max-width: 800px;
+	}
+	
+	#github_feed {
+		border-radius: 0;
+		padding: 0;
+		display: block;
+		width: 50%;
+		margin: 1em auto;
+	}
+</style>
+
 	</head>
 	<body>
+		<p id="accept-cookies" class="section" style="display: none;">
+			
+				Do you want to save this settings in a cookie ? <button onclick="save_cookie(true)">yes</button> / <button onclick="save_cookie(false)">no</button>
+			
+		</p>
+
 		<header id="header">
 			<nav>
-				<span class="translation_links">
+				
+				<span class="lang">
 					
-					<img src="/english_flag.png" alt="🇺🇸" /> English | <a href="/fr/&#x2F;"><img src="/french_flag.png" alt="🇫🇷" /> French</a>
+					<img src="/english_flag.png" alt="🇺🇸" />&nbsp;English
+					
+				</span>
+				<span class="separator">&nbsp;|&nbsp;</span>
+				<span class="lang">
+					
+					<a href="/fr/&#x2F;">
+						<img src="/french_flag.png" alt="🇫🇷" />&nbsp;French
+					</a>
 					
 				</span>
 			</nav>
+
+			<a href="#" id="translation-warning-message" class="section" style="display: none;"></a>
 
 			<h1><a href="/">Thomas RAMIREZ <sup class="boring">(alias Jimskapt)</sup></a></h1>
 		</header>
 
 		<section>
-
-			<h2>Home</h2>
+			
+<h2>Home</h2>
 <div id="home">
 	<a href="/designs/"><span class="section">🛠 <strong>My designs</strong></span></a>
 	<a href="/translations/french/"><span class="section">🌐 <strong>My french translations</strong></span></a>
@@ -59,16 +81,16 @@
 </div>
 
 
-			<div id="github_feed" class="section"></div>
+<div id="github_feed" class="section"></div>
 
-			<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
-			<script type="text/javascript" src="/github-activity-0.1.5.min.js"></script>
-			<script>
-			GitHubActivity.feed({
-				username: "Jimskapt",
-				selector: "#github_feed",
-			});
-			</script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+<script type="text/javascript" src="/github-activity-0.1.5.min.js"></script>
+<script>
+GitHubActivity.feed({
+	username: "Jimskapt",
+	selector: "#github_feed",
+});
+</script>
 
 		</section>
 
