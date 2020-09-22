@@ -11,38 +11,38 @@
         <item>
             <title>Fractus Atlas</title>
             <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/designs/fractus-atlas/</link>
-            <guid>https://jimskapt.github.io/designs/fractus-atlas/</guid>
+            <link>https://jimskapt.github.io/fr/designs/fractus-atlas/</link>
+            <guid>https://jimskapt.github.io/fr/designs/fractus-atlas/</guid>
             <description>&lt;ul&gt;
-&lt;li&gt;💾 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&#x2F;releases&quot;&gt;download the program&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&quot;&gt;go to code repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;💾 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&#x2F;releases&quot;&gt;télécharger le programme&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;Demonstration video :&lt;&#x2F;p&gt;
+&lt;p&gt;Vidéo de démonstration :&lt;&#x2F;p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;GKd_zLJXMl4&quot; frameborder=&quot;1&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;
 </description>
         </item>
         <item>
             <title>Le livre Rust et WebAssembly</title>
             <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/translations/french/rust-wasm-book-fr/</link>
-            <guid>https://jimskapt.github.io/translations/french/rust-wasm-book-fr/</guid>
+            <link>https://jimskapt.github.io/fr/translations/french/rust-wasm-book-fr/</link>
+            <guid>https://jimskapt.github.io/fr/translations/french/rust-wasm-book-fr/</guid>
             <description>&lt;ul&gt;
-&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-wasm-book-fr&quot;&gt;read the translated book online&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;rustwasm.github.io&#x2F;docs&#x2F;book&#x2F;&quot;&gt;read the original book online&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-wasm-book-fr&quot;&gt;go to code repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-wasm-book-fr&quot;&gt;lire le livre traduit en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;rustwasm.github.io&#x2F;docs&#x2F;book&#x2F;&quot;&gt;lire le livre original en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-wasm-book-fr&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </description>
         </item>
         <item>
             <title>Le langage de programmation Rust</title>
             <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/translations/french/rust-book-fr/</link>
-            <guid>https://jimskapt.github.io/translations/french/rust-book-fr/</guid>
+            <link>https://jimskapt.github.io/fr/translations/french/rust-book-fr/</link>
+            <guid>https://jimskapt.github.io/fr/translations/french/rust-book-fr/</guid>
             <description>&lt;ul&gt;
-&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-book-fr&#x2F;&quot;&gt;read the translated book online (in french)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;book&#x2F;&quot;&gt;read the original book online&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;💬 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;book&#x2F;issues&#x2F;808&quot;&gt;read the project history&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-book-fr&quot;&gt;go to project repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-book-fr&#x2F;&quot;&gt;lire le livre traduit en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;book&#x2F;&quot;&gt;lire le livre original en ligne (en anglais)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;💬 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;book&#x2F;issues&#x2F;808&quot;&gt;voir l&#x27;historique du projet (en anglais)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-book-fr&quot;&gt;consulter le dépôt du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </description>
         </item>
