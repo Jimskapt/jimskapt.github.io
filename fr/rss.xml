@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Jimskapt</title>
-        <link>https://jimskapt.github.io</link>
+      <title>Jimskapt</title>
+        <link>https://jimskapt.com</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://jimskapt.github.io/fr/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://jimskapt.com/fr/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>La référence du langage Rust</title>
+            <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+            <link>https://jimskapt.com/fr/translations/french/rust-reference-fr/</link>
+            <guid>https://jimskapt.com/fr/translations/french/rust-reference-fr/</guid>
+            <description>&lt;ul&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-reference-fr&#x2F;&quot;&gt;lire le livre traduit en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;nightly&#x2F;reference&#x2F;&quot;&gt;lire le livre original en ligne (en anglais)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;rust-reference-fr&quot;&gt;consulter le dépôt du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
         <item>
             <title>Fractus Atlas</title>
             <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/designs/fractus-atlas/</link>
-            <guid>https://jimskapt.github.io/fr/designs/fractus-atlas/</guid>
+            <link>https://jimskapt.com/fr/designs/fractus-atlas/</link>
+            <guid>https://jimskapt.com/fr/designs/fractus-atlas/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;💾 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&#x2F;releases&quot;&gt;télécharger le programme&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -24,8 +36,8 @@
         <item>
             <title>Le livre Rust et WebAssembly</title>
             <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/translations/french/rust-wasm-book-fr/</link>
-            <guid>https://jimskapt.github.io/fr/translations/french/rust-wasm-book-fr/</guid>
+            <link>https://jimskapt.com/fr/translations/french/rust-wasm-book-fr/</link>
+            <guid>https://jimskapt.com/fr/translations/french/rust-wasm-book-fr/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-wasm-book-fr&quot;&gt;lire le livre traduit en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;rustwasm.github.io&#x2F;docs&#x2F;book&#x2F;&quot;&gt;lire le livre original en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -36,8 +48,8 @@
         <item>
             <title>Le langage de programmation Rust</title>
             <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/translations/french/rust-book-fr/</link>
-            <guid>https://jimskapt.github.io/fr/translations/french/rust-book-fr/</guid>
+            <link>https://jimskapt.com/fr/translations/french/rust-book-fr/</link>
+            <guid>https://jimskapt.com/fr/translations/french/rust-book-fr/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;rust-book-fr&#x2F;&quot;&gt;lire le livre traduit en ligne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;📖 &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;book&#x2F;&quot;&gt;lire le livre original en ligne (en anglais)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -49,8 +61,8 @@
         <item>
             <title>Lambda Badger</title>
             <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/designs/lambda-badger/</link>
-            <guid>https://jimskapt.github.io/fr/designs/lambda-badger/</guid>
+            <link>https://jimskapt.com/fr/designs/lambda-badger/</link>
+            <guid>https://jimskapt.com/fr/designs/lambda-badger/</guid>
             <description>&lt;p&gt;&lt;em&gt;(il n&#x27;est plus maintenu, et a besoin de mises à jour de sécurité)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;lambda-badger&#x2F;&quot;&gt;lire la présentation du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -62,8 +74,8 @@
         <item>
             <title>CC-407</title>
             <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/designs/cc-407/</link>
-            <guid>https://jimskapt.github.io/fr/designs/cc-407/</guid>
+            <link>https://jimskapt.com/fr/designs/cc-407/</link>
+            <guid>https://jimskapt.com/fr/designs/cc-407/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;CC-407&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -72,8 +84,8 @@
         <item>
             <title>Ikiliptus</title>
             <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/designs/ikiliptus/</link>
-            <guid>https://jimskapt.github.io/fr/designs/ikiliptus/</guid>
+            <link>https://jimskapt.com/fr/designs/ikiliptus/</link>
+            <guid>https://jimskapt.com/fr/designs/ikiliptus/</guid>
             <description>&lt;p&gt;&lt;em&gt;(il n&#x27;est plus maintenu, et a besoin de mises à jour de sécurité)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;ikiliptus&#x2F;en-US&#x2F;&quot;&gt;lire la présentation du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -85,8 +97,8 @@
         <item>
             <title>ModuleYourPrints</title>
             <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/designs/module-your-prints/</link>
-            <guid>https://jimskapt.github.io/fr/designs/module-your-prints/</guid>
+            <link>https://jimskapt.com/fr/designs/module-your-prints/</link>
+            <guid>https://jimskapt.com/fr/designs/module-your-prints/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;ModuleYourPrintsLibrary&#x2F;blob&#x2F;Mark1&#x2F;README.md&quot;&gt;lire la présentation du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;ModuleYourPrintsLibrary&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;

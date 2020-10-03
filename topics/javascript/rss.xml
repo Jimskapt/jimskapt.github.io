@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Jimskapt</title>
-        <link>https://jimskapt.github.io</link>
+      <title>Jimskapt - javascript</title>
+        <link>https://jimskapt.com</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://jimskapt.github.io/topics/javascript/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://jimskapt.com/topics/javascript/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
         <item>
             <title>Fractus Atlas</title>
             <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/designs/fractus-atlas/</link>
-            <guid>https://jimskapt.github.io/fr/designs/fractus-atlas/</guid>
+            <link>https://jimskapt.com/fr/designs/fractus-atlas/</link>
+            <guid>https://jimskapt.com/fr/designs/fractus-atlas/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;💾 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&#x2F;releases&quot;&gt;télécharger le programme&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -24,8 +24,8 @@
         <item>
             <title>Lambda Badger</title>
             <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/designs/lambda-badger/</link>
-            <guid>https://jimskapt.github.io/fr/designs/lambda-badger/</guid>
+            <link>https://jimskapt.com/fr/designs/lambda-badger/</link>
+            <guid>https://jimskapt.com/fr/designs/lambda-badger/</guid>
             <description>&lt;p&gt;&lt;em&gt;(il n&#x27;est plus maintenu, et a besoin de mises à jour de sécurité)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;lambda-badger&#x2F;&quot;&gt;lire la présentation du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -37,8 +37,8 @@
         <item>
             <title>Ikiliptus</title>
             <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/designs/ikiliptus/</link>
-            <guid>https://jimskapt.github.io/fr/designs/ikiliptus/</guid>
+            <link>https://jimskapt.com/fr/designs/ikiliptus/</link>
+            <guid>https://jimskapt.com/fr/designs/ikiliptus/</guid>
             <description>&lt;p&gt;&lt;em&gt;(il n&#x27;est plus maintenu, et a besoin de mises à jour de sécurité)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;jimskapt.github.io&#x2F;ikiliptus&#x2F;en-US&#x2F;&quot;&gt;lire la présentation du projet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;

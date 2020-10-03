@@ -1,182 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://jimskapt.github.io/</loc>
+        <loc>https://jimskapt.com/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/about-me/</loc>
+        <loc>https://jimskapt.com/about-me/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/blog/</loc>
+        <loc>https://jimskapt.com/blog/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/designs/</loc>
+        <loc>https://jimskapt.com/contact/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/designs/cc-407/</loc>
+        <loc>https://jimskapt.com/designs/</loc>
+    </url>
+    <url>
+        <loc>https://jimskapt.com/designs/cc-407/</loc>
         <lastmod>2018-05-26</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/designs/fractus-atlas/</loc>
+        <loc>https://jimskapt.com/designs/fractus-atlas/</loc>
         <lastmod>2020-05-14</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/designs/ikiliptus/</loc>
+        <loc>https://jimskapt.com/designs/ikiliptus/</loc>
         <lastmod>2018-04-02</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/designs/lambda-badger/</loc>
+        <loc>https://jimskapt.com/designs/lambda-badger/</loc>
         <lastmod>2018-09-15</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/designs/module-your-prints/</loc>
+        <loc>https://jimskapt.com/designs/module-your-prints/</loc>
         <lastmod>2016-05-15</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/</loc>
+        <loc>https://jimskapt.com/fr/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/about-me/</loc>
+        <loc>https://jimskapt.com/fr/about-me/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/blog/</loc>
+        <loc>https://jimskapt.com/fr/blog/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/designs/</loc>
+        <loc>https://jimskapt.com/fr/designs/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/designs/cc-407/</loc>
+        <loc>https://jimskapt.com/fr/designs/cc-407/</loc>
         <lastmod>2018-05-26</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/designs/fractus-atlas/</loc>
+        <loc>https://jimskapt.com/fr/designs/fractus-atlas/</loc>
         <lastmod>2020-05-14</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/designs/ikiliptus/</loc>
+        <loc>https://jimskapt.com/fr/designs/ikiliptus/</loc>
         <lastmod>2018-04-02</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/designs/lambda-badger/</loc>
+        <loc>https://jimskapt.com/fr/designs/lambda-badger/</loc>
         <lastmod>2018-09-15</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/designs/module-your-prints/</loc>
+        <loc>https://jimskapt.com/fr/designs/module-your-prints/</loc>
         <lastmod>2016-05-15</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/networks/</loc>
+        <loc>https://jimskapt.com/fr/legal/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/translations/french/</loc>
+        <loc>https://jimskapt.com/fr/networks/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/translations/french/rust-book-fr/</loc>
+        <loc>https://jimskapt.com/fr/translations/french/</loc>
+    </url>
+    <url>
+        <loc>https://jimskapt.com/fr/translations/french/rust-book-fr/</loc>
         <lastmod>2019-08-20</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/fr/translations/french/rust-wasm-book-fr/</loc>
+        <loc>https://jimskapt.com/fr/translations/french/rust-reference-fr/</loc>
+        <lastmod>2020-09-13</lastmod>
+    </url>
+    <url>
+        <loc>https://jimskapt.com/fr/translations/french/rust-wasm-book-fr/</loc>
         <lastmod>2020-04-05</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/networks/</loc>
+        <loc>https://jimskapt.com/legal/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/</loc>
+        <loc>https://jimskapt.com/networks/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/3d-print/</loc>
+        <loc>https://jimskapt.com/topics/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/bibliotheque/</loc>
+        <loc>https://jimskapt.com/topics/3d-print/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/book/</loc>
+        <loc>https://jimskapt.com/topics/bibliotheque/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/cli-tool/</loc>
+        <loc>https://jimskapt.com/topics/book/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/couchdb/</loc>
+        <loc>https://jimskapt.com/topics/cli-tool/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/ecmascript/</loc>
+        <loc>https://jimskapt.com/topics/couchdb/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/francais/</loc>
+        <loc>https://jimskapt.com/topics/ecmascript/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/french/</loc>
+        <loc>https://jimskapt.com/topics/francais/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/game/</loc>
+        <loc>https://jimskapt.com/topics/french/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/gdscript/</loc>
+        <loc>https://jimskapt.com/topics/game/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/godot/</loc>
+        <loc>https://jimskapt.com/topics/gdscript/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/impression-3d/</loc>
+        <loc>https://jimskapt.com/topics/godot/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/interface-concue-avec-des-technologies-web/</loc>
+        <loc>https://jimskapt.com/topics/impression-3d/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/javascript/</loc>
+        <loc>https://jimskapt.com/topics/interface-concue-avec-des-technologies-web/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/jeu/</loc>
+        <loc>https://jimskapt.com/topics/javascript/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/library/</loc>
+        <loc>https://jimskapt.com/topics/jeu/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/livre/</loc>
+        <loc>https://jimskapt.com/topics/library/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/markdown/</loc>
+        <loc>https://jimskapt.com/topics/livre/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/openscad/</loc>
+        <loc>https://jimskapt.com/topics/markdown/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/outil-en-ligne-de-commande/</loc>
+        <loc>https://jimskapt.com/topics/openscad/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/progressive-web-app/</loc>
+        <loc>https://jimskapt.com/topics/outil-en-ligne-de-commande/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/rust-lang/</loc>
+        <loc>https://jimskapt.com/topics/progressive-web-app/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/traduction/</loc>
+        <loc>https://jimskapt.com/topics/rust-lang/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/translation/</loc>
+        <loc>https://jimskapt.com/topics/traduction/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/vue-js/</loc>
+        <loc>https://jimskapt.com/topics/translation/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/wasm/</loc>
+        <loc>https://jimskapt.com/topics/vue-js/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/web-gui/</loc>
+        <loc>https://jimskapt.com/topics/wasm/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/topics/webassembly/</loc>
+        <loc>https://jimskapt.com/topics/web-gui/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/translations/french/</loc>
+        <loc>https://jimskapt.com/topics/webassembly/</loc>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/translations/french/rust-book-fr/</loc>
+        <loc>https://jimskapt.com/translations/french/</loc>
+    </url>
+    <url>
+        <loc>https://jimskapt.com/translations/french/rust-book-fr/</loc>
         <lastmod>2019-08-20</lastmod>
     </url>
     <url>
-        <loc>https://jimskapt.github.io/translations/french/rust-wasm-book-fr/</loc>
+        <loc>https://jimskapt.com/translations/french/rust-reference-fr/</loc>
+        <lastmod>2020-09-13</lastmod>
+    </url>
+    <url>
+        <loc>https://jimskapt.com/translations/french/rust-wasm-book-fr/</loc>
         <lastmod>2020-04-05</lastmod>
     </url>
 </urlset>

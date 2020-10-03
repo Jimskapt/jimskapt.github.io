@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Jimskapt</title>
-        <link>https://jimskapt.github.io</link>
+      <title>Jimskapt - 3D print</title>
+        <link>https://jimskapt.com</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://jimskapt.github.io/topics/3d-print/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://jimskapt.com/topics/3d-print/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Sun, 15 May 2016 00:00:00 +0000</lastBuildDate>
         <item>
             <title>ModuleYourPrints</title>
             <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/designs/module-your-prints/</link>
-            <guid>https://jimskapt.github.io/designs/module-your-prints/</guid>
+            <link>https://jimskapt.com/designs/module-your-prints/</link>
+            <guid>https://jimskapt.com/designs/module-your-prints/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;ModuleYourPrintsLibrary&#x2F;blob&#x2F;Mark1&#x2F;README.md&quot;&gt;read project presentation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;ModuleYourPrintsLibrary&quot;&gt;go to code repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;

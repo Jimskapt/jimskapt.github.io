@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Jimskapt</title>
-        <link>https://jimskapt.github.io</link>
+      <title>Jimskapt - gdscript</title>
+        <link>https://jimskapt.com</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://jimskapt.github.io/topics/gdscript/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://jimskapt.com/topics/gdscript/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Sat, 26 May 2018 00:00:00 +0000</lastBuildDate>
         <item>
             <title>CC-407</title>
             <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/fr/designs/cc-407/</link>
-            <guid>https://jimskapt.github.io/fr/designs/cc-407/</guid>
+            <link>https://jimskapt.com/fr/designs/cc-407/</link>
+            <guid>https://jimskapt.com/fr/designs/cc-407/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;CC-407&quot;&gt;consulter le dépôt du code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;

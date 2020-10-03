@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Jimskapt</title>
-        <link>https://jimskapt.github.io</link>
+      <title>Jimskapt - cli-tool</title>
+        <link>https://jimskapt.com</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://jimskapt.github.io/topics/cli-tool/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://jimskapt.com/topics/cli-tool/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
         <item>
             <title>Fractus Atlas</title>
             <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-            <link>https://jimskapt.github.io/designs/fractus-atlas/</link>
-            <guid>https://jimskapt.github.io/designs/fractus-atlas/</guid>
+            <link>https://jimskapt.com/designs/fractus-atlas/</link>
+            <guid>https://jimskapt.com/designs/fractus-atlas/</guid>
             <description>&lt;ul&gt;
 &lt;li&gt;💾 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&#x2F;releases&quot;&gt;download the program&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;👩‍💻 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jimskapt&#x2F;fractus-atlas&quot;&gt;go to code repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
